@@ -2,22 +2,20 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
-    "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
+    "title": "Jmxs.dev() - Portfolio",
+    "titleTemplate": "%s · Portfolio",
+    "description": "I'm a passionate web developer who never stops learning..",
+    "author": "Jesús Mora",
     "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "bio": "I am Jesús Mora and I am dedicated to web development. I always look for opportunities where I can demonstrate my knowledge and I am open to learning new technologies",
     "social": {
-      "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "github": "https://github.com/jesusalbertokiz",
+      "linkedin": "https://ve.linkedin.com/in/jesusalbertokiz",
+      "mail": "mailto:inversionesjmxs@gmail.com"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "Jmxs.dev()" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
