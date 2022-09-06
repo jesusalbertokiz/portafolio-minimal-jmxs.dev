@@ -2,40 +2,72 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "💰 MVC APP WITH PHP",
+      "title": "Sales and Inventory System",
+      "description": "I'm doing this project for a local grocery store in the community where I live. To do it, use the MVC with php, connection to a SQL database, Bootstrap for the design and implement Jqery for a specific functionality at the request of the client. Currently it is still in development, but as soon as it is ready I'll publish a copy on the internet",
+      "tags": ["Fullstack", "MVC", "PHP", "Bootstrap", "Jquery", "SQL"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/sistemaVenta.png",
+        "alt": "Sales and inventory system image"
+      },
+      "links": []
+    },
+    {
+      "visible": true,
+      "category": "📋 Gatsby and React",
+      "title": "Professional Portfolio",
+      "description": "As a digital professional, a space on the web where I show the world my work is vital. To give a great user impression the Jamstack with React and Gatsby using the 'gatsby-starter-portfolio-minimal-theme' theme",
+      "tags": ["Jamstack", "Gatsby", "React"],
+      "image": {
+        "src": "../../images/portafolio-gatsby.png",
+        "alt": "Portfolio image"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
-          "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://github.com/jesusalbertokiz/portafolio-minimal-jmxs.dev"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "🔰 Eleventy JS",
+      "title": "First Personal Blog For College",
+      "description": "Last term I was assigned the task of creating a personal blog for the university. It was the first time I was introduced to JamStack and the first tool I tried was Eleventy.js. I implemented it with .njk files and with html, css and vanilla javascript.",
+      "tags": ["Eleventy.js", "Vanilla JavaScript", "HTML and CSS"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/primer-blog.png",
+        "alt": "My first blog"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/jesusalbertokiz/jmxs.dev"
+        },
+        {
+          "type": "external",
+          "url": "https://blog.jmxs.space"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🦗CSS GRID",
+      "title": "Restaurant Landing Page",
+      "description": "TThis was a landing page design where I just used css grid to put together a responsive layout for the whole page.",
+      "tags": ["CSS Grid", "HTML"],
+      "image": {
+        "src": "../../images/restaurant-landingPage.png",
+        "alt": "CSS Grid image"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/jesusalbertokiz/grid-responsive-landing-page"
+        },
+        {
+          "type": "external",
+          "url": "https://jesusalbertokiz.github.io/grid-responsive-landing-page/"
         }
       ]
     }
@@ -43,6 +75,6 @@
   "button": {
     "visible": true,
     "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "url": "https://github.com/jesusalbertokiz?tab=repositories"
   }
 }
